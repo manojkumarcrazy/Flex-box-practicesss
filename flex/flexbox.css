@@ -1,0 +1,60 @@
+.Flex{
+    display:flex;
+    /* justify-content:center ; */
+    margin: 30px;
+
+    /* text-align: center;
+     */
+     /* align-content: center; */
+     gap:10px;
+     /* padding-right: 0px; */
+     justify-content:space-evenly ;
+
+}
+
+.one{
+    border: 2px dotted yellowgreen;
+    padding: 40px;
+     margin: 10px;
+    background-color: brown;
+    color: aqua;
+    display: flex;
+    align-items:end ;
+    border-radius: 20px;
+}.five{
+    border: 1px solid blue;
+    padding: 40px;
+    gap: 30px;
+    margin: 10px;
+    background-color: brown;
+    color: aqua;
+    border-radius: 30px;
+
+}
+.two{
+    border: 1px solid blue;
+    padding: 40px;
+    gap: 30px;
+    margin: 100px;
+    background-color: brown;
+    color: aqua;
+
+}
+.three{
+    border: 1px solid blue;
+    padding: 40px;
+    gap: 30px;
+    margin: 100px;
+    background-color: brown;
+    color: aqua;
+
+}
+.four{
+    border: 1px solid blue;
+    padding: 40px;
+    gap: 30px;
+    margin: 100px;
+    background-color: brown;
+    color: aqua;
+
+}
